@@ -1,5 +1,4 @@
 import numpy as np
-import brainaccess
-
+import brainaccess as bp
 
 print("test")
